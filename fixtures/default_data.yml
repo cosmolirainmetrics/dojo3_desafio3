@@ -1,0 +1,8 @@
+prod:
+  criar_comentario:
+    name: "Teste de Criação de Comentário"
+    email: "teste@inmetrics.com.br"
+    body:  "Testando a criação de um novo comentário."  
+
+  buscar_comentario:
+    id: "496"
